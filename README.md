@@ -11,7 +11,7 @@ This repository contains a machine learning project that follows a structured wo
 The first cell of the notebook contains all the necessary libraries used throughout the project, including visualization libraries such as matplotlib and seaborn.
 
 ### 3. Data Loading
-- This section involves the initial setup of the dataset, which might include renaming columns, checking the size of the dataset, and other preparatory steps.
+- This section involves the initial setup of the dataset, which might include renaming columns, checking the size of the dataset, and other preparatory steps. The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/vikramamin/customer-churn-decision-tree-and-random-forest)
 
 ### 4. Exploratory Data Analysis (EDA)
 - Delve into the dataset using various techniques such as querying, grouping, and visualizing the data to gain a deeper understanding.
